@@ -362,7 +362,6 @@ if __name__ == '__main__':
             #     writer.writerow()
             else:
                 print("Empty file")
-
             #print(check.photo_id, check.date, check.bankname, check.account_type, check.account_number, check.amount)
             # writer.writerow([check.photo_id, check.date, check.bankname, check.account_type, check.account_number, check.amount, avail_amt])
             check.data_assign_byrow(check.photo_id, check.date, check.bankname, check.account_type, check.amount, avail_amt, writer)
