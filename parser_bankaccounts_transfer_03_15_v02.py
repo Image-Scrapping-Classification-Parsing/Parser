@@ -126,7 +126,10 @@ class Bank:
         'ucb&t, co','ucb&t, company','ucb&t, national association','ucb&t, na','valley national bank',
         'xceed financial credit union','yadkin bank','yadkin valley bank and trust',
         'yadkin valley bank and trust company','yadkin valley financial corporation','zb',
-        'zions bancorporation','zions bank']
+        'zions bancorporation','zions bank','america first credit union' , 'wells fargo' , 
+        'huntington' , 'arvest' , 'union bank' , 'woodforest national bank' , 'ameritrade' , 'regions' , 
+        'commomwealth bank' , 'nevada state bank', 'truist', 'space coast credit union', 'm&t bank' , 
+        'financial plus credit union' , 'greater nevada credit union' , 'usaa']
         re = set()
         
         ##### check bank name in text #####
